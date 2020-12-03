@@ -1,0 +1,24 @@
+
+tools
+    public text editor 
+    public drawing
+    video recording
+    slideshow
+
+hello.py
+    interpretter
+    running files
+
+basics1.py
+    order of eval examples
+    conditionals
+    collections
+    for loops
+    more questions/problems
+
+basics2.py
+    defining functions
+    objects
+    classes
+    while
+

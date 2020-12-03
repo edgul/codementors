@@ -1,0 +1,65 @@
+
+Getting Started with python
+    IDE
+    interpretter
+    Running a file
+
+Basics
+    Expressions
+        primitives
+            Int
+            Float
+            Complex
+            String
+            Bool
+        complex expressions
+        mod operator
+        order of evaluation
+        Errors
+
+    Collections
+        List
+        Tuple
+        Set
+        Dict
+
+    Built-in functions
+    Assignment
+    None
+
+****
+
+
+    loops
+    conditionals
+    classes
+
+    recursion
+
+System
+    input/output
+    files
+    graphics
+
+Libraries
+    math
+
+algorithms
+    linear search
+    binary search
+    bubble sort
+    merge sort
+
+data structures
+    stack
+    queue
+    linked list
+    trees
+
+project management
+    todo
+    changelog
+
+tools
+    IDEs
+    git / github
