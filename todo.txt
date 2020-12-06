@@ -11,13 +11,10 @@ hello.py
 
 basics1.py
     order of eval examples
-    conditionals
-    collections
     for loops
-    more questions/problems
+    def function examples
 
 basics2.py
-    defining functions
     objects
     classes
     while

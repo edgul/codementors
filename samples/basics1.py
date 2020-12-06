@@ -21,29 +21,46 @@ def main():
     5 == 5                                  # comparison operator
     5 != 4
 
-    # order of evaluation
-    # shortcircuiting
+    # order of evaluation 
+    #   aka operator precedence
+    #   overriding precedence
+    # 1: 5 * 5 ** 2
+    # 2: 5 + succ(5 + 6) / 3
 
-    # conditionals
-    
     # functions
     print(5)    # output to screen
     float(5)    # conversions
     int(5.1)    
     round(5.6)  # rounding
     help(5)     # help!
+    isinstance(5, int)
+
+    # defining functions
+    #   valueless functions (procedures)
+    #   returning
+    #   parameters
+    # 1. successor()
+    # 2. addTwo()
+
+    # conditionals 
+    #   if
+    #   elif
+    #   else
+    # 1. write a function that returns true if the first string argument contains the second string argument 
     
     # collections
     [1, 2, 3, 4]       # list
-    (1, 2 )            # tuple
+    (1, 2)            # tuple
     {'a', 'b', 'c' }   # set
     {'a':1, 'b':2 }    # dict
 
+    # List: print 1..10
+    # Tuple: write function that returns line count and letter count of a given string
+
+    # mutability
+
     # for loops
 
-    ### 
-    None # not a true expression -- denotes a lack of a value
-   
     # variables/assignment
 
     # basic formatting
@@ -62,7 +79,12 @@ def main():
     # What does this do?: x = print(5)
 
     # Problems:
-    # Write a program that takes a number from a user and prints "The number was: <the_number>"
+    # User Input: Write a program that takes a number from a user and prints "The number was: <the_number>"
+    # Conversion: Write a program that takes two numbers from a user and prints the sum of the two numbers
+    # Conditionals: Fizzbuzz
+    # Sets: Given two lists of ints return a list of the shared ints
+    # Dict: Count the number of each letter in a given string - print each count
+
     
     
 main()
