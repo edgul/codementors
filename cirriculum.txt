@@ -1,6 +1,9 @@
 
 Getting Started with python
     IDE
+        text editor
+        interpretter
+        debugger
     interpretter
     Running a file
 
