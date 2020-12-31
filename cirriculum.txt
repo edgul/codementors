@@ -18,7 +18,8 @@ Basics
         complex expressions
         mod operator
         order of evaluation
-        Errors
+        Interpretter Errors
+        None
 
     Collections
         List
@@ -27,17 +28,14 @@ Basics
         Dict
 
     Built-in functions
+
     Assignment
-    None
-
-****
-
-
     loops
     conditionals
     classes
-
     recursion
+
+****
 
 System
     input/output
